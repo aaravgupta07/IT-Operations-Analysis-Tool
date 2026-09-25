@@ -2,7 +2,7 @@
 
 ## Overview
 
-The IT Operations Analysis Tool is a Python-based project that analyzes basic IT spending and operational issues and converts the results into a structured management report. The project was created to apply basic-level Python programming in a practical business problem. The goal is to demonstrate how basic programming and data analysis can be used to organize operational information and identify areas that may require management attention.
+The IT Operations Analysis Tool is a Python-based project that analyzes basic IT spending and operational issues and converts the results into a structured management report. I built this project to apply introductory-level Python programming to a practical business problem. The goal is to demonstrate how basic programming and data analysis can be used to organize operational information and identify areas that may require management attention.
 
 ## Business Problem
 
