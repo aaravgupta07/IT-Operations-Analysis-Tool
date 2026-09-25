@@ -55,4 +55,5 @@ IT-Operations-Analysis-Tool/
 ├── README.md
 ├── main.py
 ├── business_data.txt
-└── analysis_report.txt
+├── analysis_report.txt
+└── sample_output
