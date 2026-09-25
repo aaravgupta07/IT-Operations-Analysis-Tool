@@ -19,7 +19,7 @@ This project takes a structured text file containing company details, IT spendin
 - Spending observations
 - Management flags
 
-## How It Works
+## How The Tool Works
 
 The project follows a simple process:
 
@@ -41,6 +41,12 @@ The project follows a simple process:
 - String operations
 - Arithmetic calculations
 
+## Analytical Assumptions
+
+- The thresholds used for management flags and issue prioritization are illustrative rules created for this project.
+- The thresholds are not based on any external industry benchmarks.
+- The tool assumes that each required data category contains at least one valid entry.
+  
 ## Project Structure
 
 ```text
