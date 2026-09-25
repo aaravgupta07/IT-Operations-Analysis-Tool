@@ -53,7 +53,7 @@ The project follows a simple process:
 IT-Operations-Analysis-Tool/
 │
 ├── README.md
-├── main.py
-├── business_data.txt
-├── analysis_report.txt
-└── sample_output
+├── code.py
+├── data_business.txt
+├── findings_report.txt
+└── sample_output.png
